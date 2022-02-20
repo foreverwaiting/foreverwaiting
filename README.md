@@ -14,7 +14,7 @@
 
 ## Introduction :raised_hands:
 
-Student of [SJZU](). :school:
+Student of [SJZU](www.sjzu.edu.cn). :school:
 
 ## Orientation :dart:
 
